@@ -109,7 +109,6 @@ To access the dataset used in this project, please follow the link below:
     plt.show()
     ```
 
-    *Note: Replace `'path/to/your/image.png'` with the actual path to your analysis image.*
 
    ![Dashboard Screenshot](image2.png)
 
