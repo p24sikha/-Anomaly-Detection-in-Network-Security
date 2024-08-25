@@ -116,13 +116,10 @@ To access the dataset used in this project, please follow the link below:
 
 If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or inquiries, please contact [your email address].
+For any questions or inquiries, please contact [pallavisikha122@gmail.com].
 
 ## Note
 
